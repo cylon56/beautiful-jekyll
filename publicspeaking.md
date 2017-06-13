@@ -9,11 +9,11 @@ title: Speaking engagements
 **Video coming soon**
 
 ## Business and the Blockchain: Oaken Innovations Overview (2017)
-{% include youtubePlayer.html video="pmr8rxwFLTk" %}
+{% include youtubePlayer.html id="pmr8rxwFLTk" %}
 ### Slides: http://hudsonjameson.com/presentations/rice-conf-2017.pdf
 
 ## Coindesk Construct: Ethereum's Roadmap (2017)
-{% include youtubePlayer.html video=OQtRzhgHEBg %}
+{% include youtubePlayer.html id=OQtRzhgHEBg %}
 ### Slides: http://hudsonjameson.com/presentations/hudson-eth-construct2017.pdf
 
 ## Devcon2 Ethereum Developer Conference: Solidity for Dummies (2016)
