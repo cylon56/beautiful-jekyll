@@ -3,7 +3,9 @@ layout: page
 title: Speaking engagements
 ---
 
-# Speaking Engagements
+If you are interested in 
+
+# Conferences
 
 ## Coindesk Consensus (2017)
 **Video coming soon**
@@ -19,6 +21,10 @@ title: Speaking engagements
 ## Devcon2 Ethereum Developer Conference: Solidity for Dummies (2016)
 {% include youtubePlayer.html id="kx_TgcWgbkw" %}
 #### [Slides](https://ethereumfoundation.org/devcon2/wp-content/uploads/2016/10/Solidity-for-Dummies.pdf)
+
+## Grace Hopper Women in Computing Conference: An Introduction to Blockchain and Smart Contract Technology (2016)
+**No Video**
+#### [Slides](http://hudsonjameson.com/GHC_blockchain.pdf)
 
 ## Devcon1 Ethereum Developer Conference: Learning Ethereum and How to Navigate the Community (2015)
 {% include youtubePlayer.html id="uh8g5BrqFxY" %}
