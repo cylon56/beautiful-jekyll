@@ -12,23 +12,32 @@ layout: base
         {{ content }}
       </article>
 
-      {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          Tags:
-          {% if site.link-tags %}
-          {% for tag in page.tags %}
-            <a href="/tag/{{ tag }}">{{ tag }}</a>
-          {% endfor %}
-          {% else %}
-            {{ page.tags | join: ", " }}
-          {% endif %}
-        </div>
-      {% endif %}
+  {% assign category = site.my_categories | where: "slug", post.category %}
+  {% assign category = category[0] %}
+  {% if category %}
+    {% capture category_content %}<a class="label" href="{{ category.url }}" style="background-color:{{ category.color }}">{{ category.name }}</a>{% endcapture %}
+  {% endif %}
 
+  {% if post.tags.size > 0 %}
+    {% capture tags_content %} with <span class="icon-price-tag{% if post.tags.size > 1 %}s{% endif %}"></span>: {% endcapture %}
+    {% for post_tag in post.tags %}
+      {% assign tag = site.my_tags | where: "slug", post_tag %}
+      {% if tag %}
+        {% assign tag = tag[0] %}
+        {% capture tags_content_temp %}{{ tags_content }}<a href="{{ tag.url }}">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+        {% assign tags_content = tags_content_temp %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+         
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
 
+   <p class="m-t-3 text-muted font-italic">
+    <small>Posted{% if category_content %} in </small>{{ category_content }}<small>{% endif %}{{ tags_content }}</small>
+  </p>
+      
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
