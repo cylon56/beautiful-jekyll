@@ -1,5 +1,6 @@
 ---
-title: **Accounts, Transactions, Gas, and Block Gas Limits in Ethereum**
+layout: post
+title: Accounts, Transactions, Gas, and Block Gas Limits in Ethereum
 category: blockchain, technical
 tags: [ethereum, blockchain]
 ---
