@@ -3,12 +3,12 @@ layout: page
 title: Speaking engagements
 ---
 
-If you are interested in 
+If you are interested in me speaking at your meetup or conference please reach out using the Contact page.
 
 # Conferences
 
 ## Coindesk Consensus (2017)
-**Video coming soon**
+{% include youtubePlayer.html id="TV_ACBqEl-k" %}
 
 ## Business and the Blockchain: Oaken Innovations Overview (2017)
 {% include youtubePlayer.html id="pmr8rxwFLTk" %}
