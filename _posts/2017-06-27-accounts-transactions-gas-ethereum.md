@@ -124,7 +124,7 @@ Recently there have been many comments about the Ethereum network slowing down, 
 ## Malicious DoS
 Last fall Ethereum was attacked by a person or group in what was called a transaction spam attack. The attack is described in [this blog post](https://blog.ethereum.org/2016/10/18/faq-upcoming-ethereum-hard-fork/):
 > The attacker performed a DoS attack by repeatedly calling certain operation codes (opcodes) in their smart contracts that are computationally difficult for clients to process, but very cheap to add to the network.
-> 
+
 During the attack miners were asked to [lower the block gas limit to 1.5 million](https://blog.ethereum.org/2016/09/22/transaction-spam-attack-next-steps/) and [then to 2 million in another instance](https://www.reddit.com/r/ethereum/comments/58aelh/attention_miners_recommending_miners_lower_the/). There have been other instances where there has been requests for the miners to lower the block gas limit during attacks on the network.
 
 ## Non-Malicious DoS
@@ -178,6 +178,7 @@ Please visit the CLI options pages for [geth](https://github.com/ethereum/go-eth
 # Resources and Further Reading
  * [Eth Gas Station website with Ethereum gas and miner stats.](http://ethgasstation.info)
  * [Ethereum StackExchange for technical questions of all kinds.](https://ethereum.stackexchange.com/)
+ * [EthDocs Ethereum Documentation (Much of it is outdated, but still good).](http://ethdocs.org/en/latest/)
  * ["Ethereum Gas, Fuel and Fees" by Joseph Chow.](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc)
  * ["What is Gas?" by MyEtherWallet](https://myetherwallet.groovehq.com/knowledge_base/topics/what-is-gas).
  * [MyEtherWallet Ether unit conversion tool.](https://www.myetherwallet.com/helpers.html)
