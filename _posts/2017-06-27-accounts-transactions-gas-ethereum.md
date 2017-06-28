@@ -5,6 +5,10 @@ category: blockchain, technical
 tags: [ethereum, blockchain]
 ---
 
+**Chinese version courtesy of [EthFans](http://ethfans.org/) - Coming soon (中文翻譯即將推出)**
+
+**[French Translation (traduction française)](https://www.ethereum-france.com/comptes-transactions-gaz-et-limites-de-gaz-par-bloc-sur-ethereum/) courtesy of [ethereum-france.com](https://www.ethereum-france.com)**
+
 This article is meant to help people understand some of the basic mechanics behind accounts, transactions, gas, and the role miners play in setting the block size in Ethereum. Corrections are welcome :)
 
 
