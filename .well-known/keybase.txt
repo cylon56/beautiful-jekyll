@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/souptacular
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://hudsonjameson.com
+  * I am souptacular (https://keybase.io/souptacular) on keybase.
+  * I have a public key with fingerprint A690 EE72 1020 853B 7802  0AA8 028D 1459 247B 9596
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010187b950b1fa1b1082fe31189c0f50c686855871fa4cf99181ac687db6f67faeee0a",
+            "fingerprint": "a690ee721020853b78020aa8028d1459247b9596",
+            "host": "keybase.io",
+            "key_id": "028d1459247b9596",
+            "kid": "010187b950b1fa1b1082fe31189c0f50c686855871fa4cf99181ac687db6f67faeee0a",
+            "uid": "689fab868d55b9b6a255fd7584995119",
+            "username": "souptacular"
+        },
+        "revoke": {
+            "sig_ids": [
+                "41894516092ca79fbb6fd105b632196cf40c2688ec53915a3e28178646a290140f"
+            ]
+        },
+        "service": {
+            "hostname": "hudsonjameson.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1498710165,
+    "expire_in": 157680000,
+    "prev": "0efb81735eafa19a761585b7b1034a4492eddc532dd20c0fcab626615b23a043",
+    "seqno": 57,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMJyAnicrVJZaBRJGJ6o6xHQiEdcjRclgkpIqrq7qqsGRcXzQURBwSs7VnVXJ20m
+07PdPROviLsS1gfRGBUhalRQIUokHkhWSDBjBEPYt8UD1IcskY0SFSWyrBuy1VGf
+fLUfuq7v/76vvr86x4+M5ef9ceXBy9bJNQN53R2fMrGtmw6e2geEZ+8B8X2gUg4P
+MmnLIExUujaIA4ggoqZgGArkcCQQpJojdYQos6CDoUUooRhTU50alsMYooirTdMW
+xCGmw6WUkINi4LipcumnfTcVKlpOGJTS1BDUIMW6MKmacK7+1EYGZpoRaTKiCiu8
+IKpQ5gQPZInrqT21SHy29y3+O/vODNMRyhwuVImNsWCCcA1jxzYxNRjDCLEIGEg/
+xaukQgdeJh1yK5PkPqgpBr7MepUyijZwy5XvAMS3A0M5MTAikGkWN5kjlK6NIBZE
+1xAjlmNASyOUSgvrDGGuS40ikxJDaTOIDOiAMsWtRLOuNUweBfXFQEXGDrzULrVQ
+Q4nlVSl/ad8LPctLRsdhmI5HzsI96QheLUXiC1FCuClbtUoVZKUfuF4KxJFCWqEb
+MSODqcggIrgYyN1p15cJN0Jgk1CovkhGZqP8pSOUXx1LruJn3CQIUyxM1Qjd4IbB
+NGnb6mqabWtQdcTigmhEgYSmc2joILrazykPxLGpfPLyKFa3PMXDjC9BTe7ejlGx
+vPzY6B9GRG84lj9u4teXff/smMGZLeePH5n7tGz2zvWnB9Yc6npR2BRrXbfi1tWh
+p+2Xmjp/3Csrzv/W5Nf+2t627db+CZfh6gIth2fsT5f+XvTTorEdLbL2cG/u0d25
+Lw50TG/rqZsx/8OW3qNXC1qWFrVdmHSy+1PfiDvV7wuvuf+M7FkfrC3Trn888K7o
+Yen05fXXLlwv6e8d7H9T0/Tf32enJP999bL73ZPxdb3zs27pgtpGca65ta7+5oYN
+8M3Q1FVlObH3xLZH9rKT6NnExX2TBxu6BtFffYVbmzOPXx8rXlTQcOPPe5uqNzdP
+a5vTWLFw3sLbA7POLPkFP7+78vJQVefrI135QcOl/uyDjcvfxnva++pX5JLxi2//
+BwecZ54=
+=5GIL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/souptacular
+
+==================================================================
