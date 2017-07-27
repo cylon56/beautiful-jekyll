@@ -5,9 +5,13 @@ category: blockchain, technical
 tags: [ethereum, blockchain]
 ---
 
-**Chinese version courtesy of [EthFans](http://ethfans.org/) - Coming soon (中文翻譯即將推出)**
+**[Chinese translation (中文翻译)](http://ethfans.org/posts/479) courtesy of [EthFans](http://ethfans.org/)**
 
 **[French Translation (traduction française)](https://www.ethereum-france.com/comptes-transactions-gaz-et-limites-de-gaz-par-bloc-sur-ethereum/) courtesy of [ethereum-france.com](https://www.ethereum-france.com)**
+
+**[Russian Translation (Русский перевод)](https://medium.com/@luardi/%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D1%8B-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-%D0%B3%D0%B0%D0%B7-%D0%B8-%D0%BB%D0%B8%D0%BC%D0%B8%D1%82-%D0%B3%D0%B0%D0%B7%D0%B0-%D0%BD%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA-%D0%B2-%D1%81%D0%B5%D1%82%D0%B8-%D1%8D%D1%84%D0%B8%D1%80%D0%B8%D1%83%D0%BC-35454cffa3d0) courtesy of [Mark Poyda](https://medium.com/@luardi)**
+
+**[Turkish Translation (Türkçe çeviri)](https://etherkiye.blogspot.com.tr/2017/07/ethereumun-temel-konseptleri-hesap.html) courtesy of [Ethereum Turkiye](https://etherkiye.blogspot.com.tr/)**
 
 This article is meant to help people understand some of the basic mechanics behind accounts, transactions, gas, and the role miners play in setting the block size in Ethereum. Corrections are welcome :)
 
