@@ -36,6 +36,6 @@ As you have seen in my explanations, my main reasons for advising any group is b
 2. If they have a token, it must be a utility token with a purpose and not a security.
 3. Their idea or product must be useful at least and innovative at best.
 
-These requirements do not mean I will advise your project. Status and SmartContract.com are the only companies I am publicly and officially advising. I do not plan to pick up anymore advisory roles in the near future. I have an IoT/blockchain security start-up called [Oaken Innovations](oakeninnovations.com) that is gaining a lot of traction that I dedicate my time to.
+These requirements do not mean I will advise your project. Status and SmartContract.com are the only companies I am publicly and officially advising. I do not plan to pick up anymore advisory roles in the near future. I have an IoT/blockchain security start-up called [Oaken Innovations](http://oakeninnovations.com) that is gaining a lot of traction that I dedicate my time to.
 
 There is a lot of money and ideas being thrown around in the blockchain space. Be cautious of any token sales or promises that blockchain start-ups make. Watch for a team with actual code, a working prototype, and a solid team. Those are the groups you want to associate with.
