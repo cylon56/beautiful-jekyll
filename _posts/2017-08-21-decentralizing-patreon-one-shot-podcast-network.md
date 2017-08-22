@@ -4,6 +4,7 @@ title: Decentralizing Patreon: What the One Shot Podcast Network Taught Me
 category: blockchain
 tags: [ethereum, blockchain]
 ---
+
 This past weekend I attended my first [Gencon gaming convention](https://en.wikipedia.org/wiki/Gen_Con). It is the largest [tabletop-game](https://en.wikipedia.org/wiki/Tabletop_game) convention in North America (70,000+ people). I normally have [Ethereum](https://coincenter.org/entry/what-is-ethereum) and [other blockchain related things](https://coincenter.org/entry/what-is-blockchain-anyway) consume my life, but a few days a week I meet with friends and play [tabletop-RPGs](https://en.wikipedia.org/wiki/Role-playing_game) like Dungeons and Dragons (5e), 7th Sea, Deadlands, and Star Wars: Edge of the Empire. This blog entry primarily describes the things I've learned from the folks at the One Shot Podcast Network and how I plan to apply that to what I'm doing. It also describes a way that blockchain technology can help content creators who utilize traditional crowdfunding platforms.
 
 ## One Shot Podcast Network
