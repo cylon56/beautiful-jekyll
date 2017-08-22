@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decentralizing Patreon: What the One Shot Podcast Network Taught Me.md
+title: Decentralizing Patreon: What the One Shot Podcast Network Taught Me
 category: blockchain
 tags: [ethereum, blockchain]
 ---
