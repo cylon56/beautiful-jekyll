@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decentralizing Patreon: What the One Shot Podcast Network Taught Me
+title: Gencon, Blockchains, and the One Shot Podcast Network
 category: blockchain
 tags: [ethereum, blockchain]
 ---
