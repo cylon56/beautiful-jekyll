@@ -22,7 +22,7 @@ I am a software developer, entrepreneur, and researcher based in Texas. I spend 
 
 ## Middle/High School (2003-2010)
 - Programming and networking classes.
-- Specialized in network security topics, particuarly wireless security.
+- Specialized in network security topics, particularly wireless security.
 - Completed a project involving wardriving in my hometown to collect statistics on wireless network security.
 
 ## College (2010-2014)
