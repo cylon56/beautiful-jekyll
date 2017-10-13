@@ -3,7 +3,7 @@ layout: minimal
 title: EthWaterloo 2017 Hackathon - Intro to Solidity and Remix
 subtitle: Getting Started with Ethereum
 ---
-# IC3 Ethereum/Cornell Bootcamp: Getting Started with Ethereum and Solidity
+# EthWaterloo 2017 Hackathon - Intro to Solidity and Remix
 
 ## Requirements:
 
