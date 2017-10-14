@@ -5,6 +5,10 @@ subtitle: Getting Started with Ethereum
 ---
 # EthWaterloo 2017 Hackathon - Intro to Solidity and Remix
 
+## Sites and Tools I Mentioned During My Talk
+- [Truffle Smart Contract Framework](http://truffleframework.com/)
+- [My Blog On Gas and Accounts in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/)
+
 ## Requirements:
 
 - [Google Chrome](https://www.google.com/chrome/index.html)
@@ -54,7 +58,7 @@ c. I can't get Rinkeby ether because the faucet hates me.
   1. Get Ropsten ether instead.
   2. Use one of the following Ropsten testnet faucets and enter your Ethereum address.
     a. [http://faucet.ropsten.be:3001/](http://faucet.ropsten.be:3001/)
-    b. [https://faucet.metamask.io/](https://faucet.metamask.io/]
+    b. [https://faucet.metamask.io/](https://faucet.metamask.io/)
     c. Ask me in Slack. Channel is #testnet.
   3. Wait 10 seconds.
   4. Look at your Metamask client and verify that you received Ropsten testnet ether.
