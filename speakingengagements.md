@@ -7,6 +7,22 @@ If you are interested in me speaking at your meetup or conference please reach o
 
 # Conferences
 
+## Devcon3 Ethereum Developer Conference: Introduction to Solidity [2017 Edition] (2017)
+**No Video**
+#### Slides
+
+## All Things Open: Welcome to Ethereum (2017)
+**No Video**
+#### Slides
+
+## SecureWorld Dallas: Blockchain + IoT = <3 (2017)
+**No Video**
+#### [Slides](http://hudsonjameson.com/presentations/hudson-secureworld-2017.pdf)
+
+## Block-Con: Securing IoT Devices with Blockchain (2017)
+**No Video**
+#### [Slides](http://hudsonjameson.com/presentations/hudson-blockcon-2017.pdf)
+
 ## Coindesk Consensus (2017)
 {% include youtubePlayer.html id="TV_ACBqEl-k" %}
 
