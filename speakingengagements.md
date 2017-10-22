@@ -13,7 +13,7 @@ If you are interested in me speaking at your meetup or conference please reach o
 
 ## All Things Open: Welcome to Ethereum (2017)
 **No Video**
-#### Slides
+#### [Slides](http://hudsonjameson.com/presentations/hudson-allthingsopen-2017.pdf)
 
 ## SecureWorld Dallas: Blockchain + IoT = <3 (2017)
 **No Video**
