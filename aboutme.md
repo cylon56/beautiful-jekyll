@@ -26,13 +26,13 @@ I am a developer, consultant and student based in Texas. I spend a lot of my tim
 - One of the Event Organizers for the [Dallas Bitcoin Meetup](https://www.meetup.com/Dallas-Bitcoin-User-Meetup/)
 
 ## College - UT Dallas (2015-present)
-# [Blockchain Club](http://utdallas.orgsync.com/org/blockchainandcryptographicsystemsorganizationutd161270)
+### [Blockchain Club](http://utdallas.orgsync.com/org/blockchainandcryptographicsystemsorganizationutd161270)
 - Part of the founding officers and later President
 - Ogranized development workshops and industry speaker events
 - Helped run [Proof of Hack](https://poh.devpost.com/), the first student ogranized hackathon for blockchain
 - Showcased a blockchain smart grid POC at the UTD Blockchain Conference
 - Attended [Devcon3](https://ethereumfoundation.org/devcon3/) representing UTD
 
-# Other
+### Other
 - Served as Tech Director for the [Financial Leadership Association](https://www.flautd.com/)
 - Worked for professors doing data analytics and web development
