@@ -9,7 +9,7 @@ I am a developer, consultant and student based in Texas. I spend a lot of my tim
 
 ## Software Development
 - Highly skilled in the Ethereum high-level contract language [Solidity](https://solidity.readthedocs.io/en/latest/).
-- Proficient in Node and JS.
+- Proficient in HTML, Node and JS.
 - Some experience in Java, Python and Android development.
 
 ## Blockchain Technology:
