@@ -21,7 +21,7 @@ I am a developer, consultant and student based in Texas. I spend a lot of my tim
 
 ## Middle/High School - Lamar (2008-2015)
 - Programming and Web Design classes.
-- Setup mining hardware and secure crypto wallets for clients
+- Consulted for cryptocurrecny mining and wallet setup
 - Performed arbitrage trades with Bitcoin and other cryptocurrencies
 - One of the Event Organizers for the [Dallas Bitcoin Meetup](https://www.meetup.com/Dallas-Bitcoin-User-Meetup/)
 
