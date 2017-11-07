@@ -19,6 +19,13 @@ I am a developer, consultant and student based in Texas. I spend a lot of my tim
 
 # Details
 
+## Cryptocurrency Consulting (2014-2017)
+- Founded Cryptocurrency Consulting, LLC in 2014
+- Perfmormed mining hardware setup and wallet security
+- Offered project guidance for mining and ICO projects
+- Researched whitepapers and investment opportunities
+- Wrote smart contracts and did code reviews for ICO's
+
 ## Middle/High School - Lamar (2008-2015)
 - Programming and Web Design classes.
 - Consulted for cryptocurrecny mining and wallet setup
