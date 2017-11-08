@@ -30,8 +30,8 @@ Take a look at my [Projects](http://michaellewellen.com/) page to see my current
 
 ## <i class="fa fa-pencil" aria-hidden="true"></i> High School (2011-2015)
 - Programming and Web Design classes.
-- Consulted for cryptocurrecny mining and wallet setup
-- Performed arbitrage trades with Bitcoin and other cryptocurrencies
+- Consulted for mining and wallet setup
+- Did arbitrage trading with Bitcoin and other cryptocurrencies
 - One of the Event Organizers for the [Dallas Bitcoin Meetup](https://www.meetup.com/Dallas-Bitcoin-User-Meetup/)
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> College - UT Dallas (2015-present)
