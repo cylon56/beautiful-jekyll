@@ -26,7 +26,7 @@ I am a developer, consultant and student based in Texas. I spend a lot of my tim
 - Researched whitepapers and investment opportunities
 - Wrote smart contracts and did code reviews for ICO's
 
-## <i class="fa fa-pencil" aria-hidden="true"></i> Middle/High School (2008-2015)
+## <i class="fa fa-pencil" aria-hidden="true"></i> High School (2011-2015)
 - Programming and Web Design classes.
 - Consulted for cryptocurrecny mining and wallet setup
 - Performed arbitrage trades with Bitcoin and other cryptocurrencies
