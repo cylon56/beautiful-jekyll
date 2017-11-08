@@ -7,7 +7,7 @@ If you are interested in me speaking at your meetup or conference please reach o
 
 # Events
 
-## NTBA Blockchain Industry Showcase (2017)
+## [NTBA Blockchain Industry Showcase](https://www.ntba.io/events/2017/9/14/ntba-blockchain-industry-showcase) (2017)
 **No Video**
 #### Slides
 
