@@ -8,7 +8,7 @@ subtitle:
 I am a developer, consultant and student based in Texas. I spend a lot of my time researching and consulting on blockchain systems, cryptocurrencies, and Ethereum projects. When I'm not doing crypto, I enjoy reading, gaming, camping, and traveling to new places with tasty food. I'm currently splitting my time between consulting and running the [Blockchain Club](http://utdallas.orgsync.com/org/blockchainandcryptographicsystemsorganizationutd161270) at UT Dallas.
 
 ## <i class="fa fa-code" aria-hidden="true"></i> Software Development
-- Highly skilled in the Ethereum high-level contract language [Solidity](https://solidity.readthedocs.io/en/latest/).
+- Skilled in the Ethereum high-level contract language [Solidity](https://solidity.readthedocs.io/en/latest/).
 - Proficient in HTML, Node and JS.
 - Some experience in Java, Python and Android development.
 
