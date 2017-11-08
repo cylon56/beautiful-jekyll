@@ -5,6 +5,8 @@ title: Contact
 
 ## Contact Info
 
+E-Mail: [michael@crypto-consult.co](mailto:michael@crypto-consult.co)
+
 [Twitter](https://twitter.com/LewellenMichael)
 
 [LinkedIn](https://www.linkedin.com/in/michael-lewellen-29ba76a7/)
