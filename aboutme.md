@@ -43,6 +43,6 @@ Take a look at my [Projects](http://michaellewellen.com/) page to see my current
 - Attended [Devcon3](https://ethereumfoundation.org/devcon3/) representing UTD
 
 ### Other things
-- I'm Currently pursuing my Bachelor of Computer Science
+- Currently pursuing my Bachelor of Computer Science
 - Served as Tech Director for the [Financial Leadership Association](https://www.flautd.com/)
 - Worked for School of Management doing data analytics and web development
