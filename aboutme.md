@@ -7,32 +7,32 @@ subtitle:
 # Summary
 I am a developer, consultant and student based in Texas. I spend a lot of my time researching and consulting on blockchain systems, cryptocurrencies, and Ethereum projects. When I'm not doing crypto, I enjoy reading, gaming, camping, and traveling to new places with tasty food. I'm currently splitting my time between consulting and running the [Blockchain Club](http://utdallas.orgsync.com/org/blockchainandcryptographicsystemsorganizationutd161270) at UT Dallas.
 
-## Software Development
+## <i class="fa fa-code" aria-hidden="true"></i> Software Development
 - Highly skilled in the Ethereum high-level contract language [Solidity](https://solidity.readthedocs.io/en/latest/).
 - Proficient in HTML, Node and JS.
 - Some experience in Java, Python and Android development.
 
-## Blockchain Technology:
+## <i class="fa fa-linode" aria-hidden="true"></i> Blockchain Technology:
 - Been working with blockchain technology since 2013.
 - Proficient in cryptocurrency mining and wallet security
 - Written smart contracts and done code reviews for Initial Coin Offerings (ICO's)
 
 # Details
 
-## Cryptocurrency Consulting (2014-2017)
+## <i class="fa fa-btc" aria-hidden="true"></i> Cryptocurrency Consulting (2014-2017)
 - Founded Cryptocurrency Consulting, LLC in 2014
 - Perfmormed mining hardware setup and wallet security
 - Offered project guidance for mining and ICO projects
 - Researched whitepapers and investment opportunities
 - Wrote smart contracts and did code reviews for ICO's
 
-## Middle/High School - Lamar (2008-2015)
+## <i class="fa fa-pencil" aria-hidden="true"></i> Middle/High School - Lamar (2008-2015)
 - Programming and Web Design classes.
 - Consulted for cryptocurrecny mining and wallet setup
 - Performed arbitrage trades with Bitcoin and other cryptocurrencies
 - One of the Event Organizers for the [Dallas Bitcoin Meetup](https://www.meetup.com/Dallas-Bitcoin-User-Meetup/)
 
-## College - UT Dallas (2015-present)
+## <i class="fa fa-graduation-cap" aria-hidden="true"></i> College - UT Dallas (2015-present)
 ### [Blockchain Club](http://utdallas.orgsync.com/org/blockchainandcryptographicsystemsorganizationutd161270)
 - Part of the founding officers and later President
 - Ogranized development workshops and industry speaker events
