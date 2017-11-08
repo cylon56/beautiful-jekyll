@@ -12,7 +12,7 @@ I am a developer, consultant and student based in Texas. I spend a lot of my tim
 - Proficient in HTML, Node and JS.
 - Some experience in Java, Python and Android development.
 
-## <i class="fa fa-linode" aria-hidden="true"></i> Blockchain Technology:
+## <i class="fa fa-link" aria-hidden="true"></i> Blockchain Technology:
 - Been working with blockchain technology since 2013.
 - Proficient in cryptocurrency mining and wallet security
 - Written smart contracts and done code reviews for Initial Coin Offerings (ICO's)
