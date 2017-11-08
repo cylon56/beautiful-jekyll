@@ -17,6 +17,8 @@ I am a developer, consultant and student based in Texas. I spend a lot of my tim
 - Proficient in cryptocurrency mining and wallet security
 - Written smart contracts and done code reviews for Initial Coin Offerings (ICO's)
 
+Take a look at my [Projects](http://michaellewellen.com/) page to see my current work
+
 # Details
 
 ## <i class="fa fa-btc" aria-hidden="true"></i> Cryptocurrency Consulting (2014-2017)
