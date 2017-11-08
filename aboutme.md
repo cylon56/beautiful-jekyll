@@ -12,7 +12,7 @@ I am a developer, consultant and student based in Texas. I spend a lot of my tim
 - Proficient in HTML, Node and JS.
 - Some experience in Java, Python and Android development.
 
-## <i class="fa fa-link" aria-hidden="true"></i> Blockchain Technology:
+## <i class="fa fa-link" aria-hidden="true"></i> Blockchain Technology
 - Been working with blockchain technology since 2013.
 - Proficient in cryptocurrency mining and wallet security
 - Written smart contracts and done code reviews for Initial Coin Offerings (ICO's)
@@ -34,12 +34,12 @@ I am a developer, consultant and student based in Texas. I spend a lot of my tim
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> College - UT Dallas (2015-present)
 ### [Blockchain Club](http://utdallas.orgsync.com/org/blockchainandcryptographicsystemsorganizationutd161270)
-- Part of the founding officers and later President
+- Founding officer and later President
 - Ogranized development workshops and industry speaker events
 - Helped run [Proof of Hack](https://poh.devpost.com/), the first student ogranized hackathon for blockchain
 - Showcased a blockchain smart grid POC at the UTD Blockchain Conference
 - Attended [Devcon3](https://ethereumfoundation.org/devcon3/) representing UTD
 
-### Other
+### Other things
 - Served as Tech Director for the [Financial Leadership Association](https://www.flautd.com/)
-- Worked for professors doing data analytics and web development
+- Worked for School of Management doing data analytics and web development
