@@ -78,6 +78,7 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
+  calendly: true
   twitter: true
   google-plus: false
   github: true
