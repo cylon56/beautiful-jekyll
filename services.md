@@ -4,7 +4,7 @@ title: Services
 ---
 
 
-div class = "services-container">
+<div class = "services-container">
 
 <button class="accordion">Education</button>
 <div class="panel">
