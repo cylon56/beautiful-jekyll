@@ -37,7 +37,7 @@ Take a look at my [Projects](http://michaellewellen.com/) page to see my current
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> College - UT Dallas (2015-present)
 ### [Blockchain Club](http://utdallas.orgsync.com/org/blockchainandcryptographicsystemsorganizationutd161270)
 - Was a founding officer and later President
-- Ogranized development workshops and industry speaker events
+- Organized development workshops and industry speaker events
 - Helped run [Proof of Hack](https://poh.devpost.com/), the first student ogranized hackathon for blockchain
 - Showcased a blockchain smart grid POC at the UTD Blockchain Conference
 - Attended [Devcon3](https://ethereumfoundation.org/devcon3/) representing UTD
