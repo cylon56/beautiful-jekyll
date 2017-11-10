@@ -8,6 +8,8 @@ bigimg: 'img/image_3.jpg'
 
 <h1 class="text-center">Current Projects</h1>
 
+If you'd like a consultation, [click here to schedule a meeting](https://calendly.com/michaelnlewellen/meeting-with-michael/) based on your availability.
+
 <div class="spacer"></div>
 
 <div class="row text-center">
