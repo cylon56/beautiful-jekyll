@@ -13,6 +13,8 @@ E-Mail: [michael@crypto-consult.co](mailto:michael@crypto-consult.co)
 
 [GitHub](https://github.com/cylon56)
 
+If you'd like to set up a meeting with me, [click here to schedule a meeting](https://calendly.com/michaelnlewellen/meeting-with-michael/) based on your availability.
+
 ## Cryptocurrency Addresses
 
 Bitcoin: [1CNcEiKKd1MFMuZhf8fKZNPQ4cEWi69rhG](https://blockchain.info/address/1CNcEiKKd1MFMuZhf8fKZNPQ4cEWi69rhG)
