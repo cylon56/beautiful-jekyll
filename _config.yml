@@ -24,7 +24,6 @@ description: Website and Blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Services: "services"
   Speaking: "speaking"
   Contact: "contact"
 
