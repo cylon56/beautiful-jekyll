@@ -5,7 +5,7 @@ title: Contact
 
 # Contact
 
-You can [email me](mailto:michael@crypto-consult.co) or find me on [Twitter] and [LinkedIn](https://twitter.com/LewellenMichael) if you want to get in touch. I love meeting new people to talk crypto with so don't hesitate to send a message!
+You can [email me](mailto:michael@crypto-consult.co) or find me on [Twitter](https://twitter.com/LewellenMichael) and [LinkedIn](https://twitter.com/LewellenMichael) if you want to get in touch. I love meeting new people to talk crypto with so don't hesitate to send a message!
 
 I do a lot of consulting work in for Solidity and ICO's, so feel free to get in touch if you want to discuss potential projects or need any paid help. If you're considering investing in cryptocurrency or learn blockchain development, feel free to contact me to discuss.
 
