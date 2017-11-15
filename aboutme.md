@@ -21,7 +21,7 @@ Take a look at my [Projects](http://michaellewellen.com/) page to see my current
 
 # Details
 
-## <i class="fa fa-btc" aria-hidden="true"></i> Cryptocurrency Consulting (2014-2017)
+## <i class="fa fa-btc" aria-hidden="true"></i> Cryptocurrency Consulting (2014-present)
 - Founded Cryptocurrency Consulting, LLC in 2014
 - Performed mining hardware setup and wallet security
 - Offered project guidance for mining and ICO projects
