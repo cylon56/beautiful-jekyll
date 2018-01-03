@@ -9,11 +9,13 @@ You can [email me](mailto:michael@crypto-consult.co) or find me on [Twitter](htt
 
 I do a lot of consulting work for Solidity development and ICO's, so feel free to get in touch if you want to discuss potential projects or need any paid help. If you'd like to schedule a consultation with me, you can setup an appointment based on your availibity below.
 
+<div>
   <!-- Calendly badge widget begin -->
   <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
   <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
   <script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/michael-crypto-consult/30min', text: 'Schedule time with me', color: '#00a2ff', branding: true});</script>
   <!-- Calendly badge widget end -->
+  </div>
 
 
 ## Cryptocurrency Addresses
