@@ -8,13 +8,7 @@ bigimg: 'img/image_3.jpg'
 
 <h1 class="text-center">Current Projects</h1>
 
-This is a collection of some personal and professional projects I've worked on. If you'd like a consultation for your own project, you can click below to schedule a meeting.
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/michael-crypto-consult/30min', text: 'Schedule time with me', color: '#00a2ff', branding: true});</script>
-<!-- Calendly badge widget end -->
-<div class="spacer"></div>
+This is a collection of some personal and professional projects I've worked on. If you'd like a consultation for your own project, [you can click here to schedule a meeting](https://calendly.com/michael-crypto-consult/30min).
 
 <div class="row text-center">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
