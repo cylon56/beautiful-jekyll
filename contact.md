@@ -3,10 +3,6 @@ layout: page
 title: Contact
 ---
 
-# Contact
-
-You can [email me](mailto:michael@crypto-consult.co) or find me on [Twitter](https://twitter.com/LewellenMichael) and [LinkedIn](https://twitter.com/LewellenMichael) if you want to get in touch. I love meeting new people to talk crypto with so don't hesitate to send a message!
-
 I do a lot of consulting work for Solidity development and ICO's, so feel free to get in touch if you want to discuss potential projects or need any paid help. If you'd like to schedule a consultation with me, you can setup an appointment based on your availibity below.
 
 <div>
@@ -15,6 +11,9 @@ I do a lot of consulting work for Solidity development and ICO's, so feel free t
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
 <!-- Calendly inline widget end -->
 </div>
+
+You can also [email me](mailto:michael@crypto-consult.co) or find me on [Twitter](https://twitter.com/LewellenMichael) and [LinkedIn](https://twitter.com/LewellenMichael) if you want to get in touch. I love meeting new people to talk crypto with so don't hesitate to send a message!
+
 
 
 ## Cryptocurrency Addresses
