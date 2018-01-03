@@ -8,7 +8,11 @@ bigimg: 'img/image_3.jpg'
 
 <h1 class="text-center">Current Projects</h1>
 
-This is a collection of some personal and professional projects I've worked on. If you'd like a consultation for your own project, you can [click here to schedule a meeting](https://calendly.com/michaelnlewellen/meeting-with-michael/) based on your availability.
+This is a collection of some personal and professional projects I've worked on. If you'd like a consultation for your own project, you can [click below to schedule a meeting].
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/michael-crypto-consult/30min" style="min-width:320px;height:580px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
 
 <div class="spacer"></div>
 
