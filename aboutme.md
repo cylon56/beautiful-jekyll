@@ -5,7 +5,7 @@ subtitle:
 ---
 
 # Summary
-I am a developer, consultant and student based in Texas. I spend a lot of my time researching and consulting on blockchain systems, cryptocurrencies, and Ethereum projects. When I'm not doing crypto, I enjoy reading, gaming, camping, and traveling to new places with tasty food. I'm currently splitting my time between consulting and running the [Blockchain Club](http://http://utdcrypto.com/) at UT Dallas.
+I am a developer, consultant and student based in Texas. I spend a lot of my time researching and consulting on blockchain systems, cryptocurrencies, and Ethereum projects. When I'm not doing crypto, I enjoy reading, gaming, camping, and traveling to new places with tasty food. I'm currently splitting my time between [consulting](http://cryptocurrencyconsulting.com/) and running the [Blockchain Club](http://http://utdcrypto.com/) at UT Dallas.
 
 ## <i class="fa fa-code" aria-hidden="true"></i> Software Development
 - Skilled in the Ethereum high-level contract language [Solidity](https://solidity.readthedocs.io/en/latest/).
@@ -21,7 +21,7 @@ Take a look at my [Projects](http://michaellewellen.com/) page to see my current
 
 # Details
 
-## <i class="fa fa-btc" aria-hidden="true"></i> Cryptocurrency Consulting (2014-present)
+## <i class="fa fa-btc" aria-hidden="true"></i> [Cryptocurrency Consulting](http://cryptocurrencyconsulting.com/) (2014-present)
 - Founded Cryptocurrency Consulting, LLC in 2014
 - Performed mining hardware setup and wallet security
 - Offered project guidance for mining and ICO projects
