@@ -9,7 +9,7 @@ I am a developer, consultant and student based in Texas. I spend a lot of my tim
 
 ## <i class="fa fa-code" aria-hidden="true"></i> Software Development
 - Skilled in the Ethereum high-level contract language [Solidity](https://solidity.readthedocs.io/en/latest/).
-- Proficient in ES6 Javascript, NodeJs and React.
+- Proficient in ES6 Javascript, NodeJS and React.
 - Some experience in Java, Python and Android development.
 
 ## <i class="fa fa-link" aria-hidden="true"></i> Blockchain Technology
