@@ -5,7 +5,7 @@ subtitle:
 ---
 
 # Summary
-I am a developer, consultant and student based in Texas. I spend a lot of my time researching and consulting on blockchain systems, cryptocurrencies, and Ethereum projects. When I'm not doing crypto, I enjoy reading, gaming, camping, and traveling to new places with tasty food. I'm currently splitting my time between consulting and running the [Blockchain Club](http://utdallas.orgsync.com/org/blockchainandcryptographicsystemsorganizationutd161270) at UT Dallas.
+I am a developer, consultant and student based in Texas. I spend a lot of my time researching and consulting on blockchain systems, cryptocurrencies, and Ethereum projects. When I'm not doing crypto, I enjoy reading, gaming, camping, and traveling to new places with tasty food. I'm currently splitting my time between consulting and running the [Blockchain Club](http://http://utdcrypto.com/) at UT Dallas.
 
 ## <i class="fa fa-code" aria-hidden="true"></i> Software Development
 - Skilled in the Ethereum high-level contract language [Solidity](https://solidity.readthedocs.io/en/latest/).
@@ -35,7 +35,7 @@ Take a look at my [Projects](http://michaellewellen.com/) page to see my current
 - One of the Event Organizers for the [Dallas Bitcoin Meetup](https://www.meetup.com/Dallas-Bitcoin-User-Meetup/)
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> College - UT Dallas (2015-present)
-### [Blockchain Club](http://utdallas.orgsync.com/org/blockchainandcryptographicsystemsorganizationutd161270)
+### [Blockchain Club](http://http://utdcrypto.com/)
 - Was a founding officer and later President
 - Organized development workshops and industry speaker events
 - Helped run [Proof of Hack](https://poh.devpost.com/), the first student ogranized hackathon for blockchain
