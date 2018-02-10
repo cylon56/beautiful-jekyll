@@ -19,6 +19,6 @@ Litecoin: [LSMo7f39X6HYf4h21Mfsy3vugniEgXKp3N](https://live.blockcypher.com/ltc/
 
 Cryptokitty: 
 
-[Cryptokitty](/img/robin.svg)
+![Cryptokitty](/img/robin.svg)
 
 [https://www.cryptokitties.co/kitty/150381](https://www.cryptokitties.co/kitty/150381)
