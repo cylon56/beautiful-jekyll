@@ -21,6 +21,6 @@ Cryptokitty: [https://www.cryptokitties.co/kitty/150381](https://www.cryptokitti
 
 <img src="/img/robin.svg"
      alt="Robin"
-     height="42" width="42" />
+     height="200" width="200" />
 
 
