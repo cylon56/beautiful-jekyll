@@ -17,7 +17,7 @@ Ethereum: [0xbFd69966230825EcA400b9EB8Bc269ced7bA5a78](https://etherscan.io/addr
 
 Litecoin: [LSMo7f39X6HYf4h21Mfsy3vugniEgXKp3N](https://live.blockcypher.com/ltc/address/LSMo7f39X6HYf4h21Mfsy3vugniEgXKp3N/)
 
-Cryptokitty: [https://www.cryptokitties.co/kitty/150381](https://www.cryptokitties.co/kitty/150381)
+CryptoKitty: [https://www.cryptokitties.co/kitty/150381](https://www.cryptokitties.co/kitty/150381)
 
 <img src="/img/robin.svg"
      alt="Robin"
