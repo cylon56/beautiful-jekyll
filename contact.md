@@ -11,10 +11,9 @@ You can also [email me](mailto:michael@crypto-consult.co) or find me on [Twitter
 
 ## Cryptocurrency Addresses
 
-Bitcoin: [1CNcEiKKd1MFMuZhf8fKZNPQ4cEWi69rhG](https://blockchain.info/address/1CNcEiKKd1MFMuZhf8fKZNPQ4cEWi69rhG)
-
-Ethereum: [0xbFd69966230825EcA400b9EB8Bc269ced7bA5a78](https://etherscan.io/address/0xa196ba2FbC8DC224011520f274A7B9990Cf89BB5)
-
+Bitcoin: [32ZMsWhQhjQXJuLZSnD4RW7sGRZVNzDVzV](https://blockchain.info/address/32ZMsWhQhjQXJuLZSnD4RW7sGRZVNzDVzV)
+Bitcoin (Bech32): [17cBVZbaojFkuvcjYKg3g8PunUMU7Fg99u](https://blockchain.info/address/17cBVZbaojFkuvcjYKg3g8PunUMU7Fg99u)
+Ethereum: [0xbD62f39c57ffa62d5EaCF3a46aD8ad8057879907](https://etherscan.io/address/0xbD62f39c57ffa62d5EaCF3a46aD8ad8057879907)
 Litecoin: [LSMo7f39X6HYf4h21Mfsy3vugniEgXKp3N](https://live.blockcypher.com/ltc/address/LSMo7f39X6HYf4h21Mfsy3vugniEgXKp3N/)
 
 CryptoKitty: [https://www.cryptokitties.co/kitty/150381](https://www.cryptokitties.co/kitty/150381)
