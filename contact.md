@@ -15,7 +15,7 @@ Bitcoin: [32ZMsWhQhjQXJuLZSnD4RW7sGRZVNzDVzV](https://blockchain.info/address/32
 
 Bitcoin (Bech32): [17cBVZbaojFkuvcjYKg3g8PunUMU7Fg99u](https://blockchain.info/address/17cBVZbaojFkuvcjYKg3g8PunUMU7Fg99u)
 
-BCH: Bcash. LOL
+Bcash: LOL
 
 Ethereum: [0xbD62f39c57ffa62d5EaCF3a46aD8ad8057879907](https://etherscan.io/address/0xbD62f39c57ffa62d5EaCF3a46aD8ad8057879907)
 
