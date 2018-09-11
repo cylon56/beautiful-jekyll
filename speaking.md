@@ -5,8 +5,7 @@ title: Speaking
 
 If you are interested in me speaking at your meetup or conference please reach out using the Contact page.
 
-Presentations
-------
+# Presentations
 
 ## Blockchain 101
 
@@ -35,8 +34,7 @@ Presentations
 * [**Dallas Blockchain & Distributed Ledger Meetup**](https://www.meetup.com/dbdlt-meetup/)
 
 
-Media
--------
+# Media
 
 ## Bitcoin Meetup Group in Dallas (2017)
 {% include youtubePlayer.html id="q72C9XOjXqo" %}
