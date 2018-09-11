@@ -36,7 +36,7 @@ Take a look at my [Projects](http://michaellewellen.com/) page to see my current
 - Developed and audited digital tokens and other smart contracts for Ethereum-based clients
 - Created research reports and provided whitepaper writing services to clients
 
-## <i class="fa fa-btc" aria-hidden="true"></i> [Olypsis Technologies](http://cryptocurrencyconsulting.com/) - CTO (2018-present)
+## <i class="fa fa-btc" aria-hidden="true"></i> [Olypsis Technologies](https://www.olypsis.com/) - CTO (2018-present)
 - Developed, tested and deployed Ethereum smart contracts for tokens and corporate research
 - Architected blockchain systems for supply-chain, tax accounting, and file sharing solutions
 - Provided project management and recruitment of additional software engineers
