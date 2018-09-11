@@ -35,9 +35,6 @@ If you are interested in me speaking at your meetup or conference please reach o
 
 # Media
 
-## NPR KERA - What is a Bitcoin ATM?
-**No Video**
-
 ## Bitcoin Meetup Group in Dallas (2017)
 {% include youtubePlayer.html id="q72C9XOjXqo" %}
 
