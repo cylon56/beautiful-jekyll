@@ -45,25 +45,25 @@ This is a collection of some personal and professional projects I've worked on. 
     </div>
   </div>
 
-	
 <div class="row text-center">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <a target="_blank" href="https://devpost.com/software/block-road" class="project-link">
+      <a target="_blank" href="https://devpost.com/software/rawhide" class="project-link">
         <span class="fa-stack fa-3x">
           <i class="fa fa-circle fa-stack-2x stack-color"></i>
-          <i class="fa fa-road fa-stack-1x fa-inverse"></i>
+          <<i class="fa fa-trophy fa-stack-1x fa-inverse"></i>
         </span>
-        <h4>BlockRoad</h4>
+        <h4>Rawhide</h4>
         <hr class="seperator">
         <p class="text-muted">
-        A distributed marketplace for IoT sensor data
+        Tokenized Cattle Management,
+        WINNER @ WyoHackathon 2018
         </p>
       </a>
     </div>
   </div>
-</div>
 
+	
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -103,7 +103,7 @@ This is a collection of some personal and professional projects I've worked on. 
       Tags:
       {% if site.link-tags %}
       {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
+      <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
       {% endfor %}
       {% else %}
         {{ post.tags | join: ", " }}
@@ -114,7 +114,6 @@ This is a collection of some personal and professional projects I've worked on. 
    </article>
   {% endfor %}
 </div>
-	
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
