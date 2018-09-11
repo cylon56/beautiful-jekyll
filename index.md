@@ -13,15 +13,15 @@ This is a collection of some personal and professional projects I've worked on. 
 <div class="row text-center">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
-      <a target="_blank" href="https://etherscan.io/address/0xccca48874780f9c42b162c9617bc6324c5142c22#code" class="project-link">
+      <a target="_blank" href="https://btcd.io/wp-content/uploads/2018/08/Bitcoin-Diamond-Whitepaper-1.pdf" class="project-link">
         <span class="fa-stack fa-3x">
           <i class="fa fa-circle fa-stack-2x stack-color"></i>
-          <i class="fa fa-connectdevelop fa-stack-1x fa-inverse"></i>
+          <i class="fa fa-diamond fa-stack-1x fa-inverse"></i>
         </span>
-        <h4>SatanCoin</h4>
+        <h4>Bitcoin Diamond Whitepaper</h4>
         <hr class="seperator">
         <p class="text-muted">
-        An ERC20 token on Ethereum with raffle functionality
+        I wrote the 2018.07 version of the Bitcoin Diamond Whitepaper
         </p>
       </a>
     </div>
