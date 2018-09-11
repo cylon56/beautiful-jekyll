@@ -49,7 +49,7 @@ Undergraduate Course Work in: Cryptography, Networking, Distributed Ledgers & Bl
 - Helped organize [Proof of Hack](https://poh.devpost.com/), the first student ogranized blockchain hackathon at UT Dallas
 - Attended [Devcon3](https://ethereumfoundation.org/devcon3/) representing UTD
 
-### Teaching Assistant for Financial Technology Courses & Research 
+### Financial Technology Courses & Research 
 - Worked with [Dr James Scott](https://www.linkedin.com/in/james-scott-phd-6424b489) and [Dr. Robert Kieschnick](http://jindal.utdallas.edu/som/faculty/robert-kieschnick/) to develop blockchain projects for corporate research
 - Assisted Dr. Scott with content creation and project management in Graduate Courses teaching Data Analytics and Financial Technologies
 - Assisted Dr. Kieschnick with data analytics of financial data and web development of university websites
