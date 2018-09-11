@@ -5,13 +5,7 @@ subtitle:
 ---
 
 # Summary
-I've been involved in the blockchain space as a consultant since
-2012. I founded Cryptocurrency Consulting in 2014, a firm that
-helps early adopters understand and secure digital currencies. As a
-Software Architect, I've helped build blockchain solutions for companies
-including Thomson Reuters and IBM. I'm currently President
-of the Blockchain Club at UT Dallas where I also participate in blockchain-related research and
-education.
+I've been involved in the blockchain space as a consultant since 2012. I founded Cryptocurrency Consulting in 2014, a firm that helps early adopters understand and secure digital currencies. As a Software Architect, I've helped build blockchain solutions for companies including Thomson Reuters and IBM. I'm currently Presidentof the Blockchain Club at UT Dallas where I also participate in blockchain-related research and education.
 
 ## <i class="fa fa-code" aria-hidden="true"></i> Software Development
 - Skilled in the Ethereum high-level contract language [Solidity](https://solidity.readthedocs.io/en/latest/).
