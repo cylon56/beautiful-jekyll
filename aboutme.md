@@ -43,10 +43,14 @@ Take a look at my [Projects](http://michaellewellen.com/) page to see my current
 - Interfaced with executives at Thomson Reuters, IBM and other Fortune 500 clients
 - Worked with platforms including uPort, IPFS, OpenZeppelin and 0x Protocol
 
-## <i class="fa fa-graduation-cap" aria-hidden="true"></i> College - University of Texas at Dallas (2015-2019)
+## <i class="fa fa-graduation-cap" aria-hidden="true"></i> University of Texas at Dallas (2015-2019)
+### B.S. in Computer Science 
+Undergraduate Course Work in: Cryptography, Networking, Distributed Ledgers & Blockchains, Database Systems, Financial Engineering, Operating Systems, Arabic
+
 ### [Blockchain Club](http://http://utdcrypto.com/)
 - Founding officer and later President
 - Organized development workshops and industry speaker events
+- Worked closely with the C[omputer Science Dep.](https://cs.utdallas.edu/) and [Institute for Innovation and Entrepreneurship](https://innovation.utdallas.edu/) to promote blockchain education and research on campus 
 - Organized and sponsored the 2018 UTD Blockchain Conference
 - Helped organize [Proof of Hack](https://poh.devpost.com/), the first student ogranized blockchain hackathon at UT Dallas
 - Attended [Devcon3](https://ethereumfoundation.org/devcon3/) representing UTD
