@@ -21,8 +21,6 @@ I've been involved in the blockchain space as a consultant since 2012. I founded
 
 Take a look at my [Projects](http://michaellewellen.com/) page to see my current work
 
-# Details
-
 ## <i class="fa fa-btc" aria-hidden="true"></i> [Cryptocurrency Consulting](http://cryptocurrencyconsulting.com/) - CEO (2014-present)
 - Founded Cryptocurrency Consulting, LLC in 2014
 - Gave technical talks and organized conferences on blockchain and cryptocurrency topics
