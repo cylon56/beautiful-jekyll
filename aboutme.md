@@ -42,7 +42,7 @@ Undergraduate Course Work in: Cryptography, Networking, Distributed Ledgers & Bl
 ### [Blockchain Club](http://http://utdcrypto.com/)
 - Founding officer and later President
 - Organized development workshops and industry speaker events
-- Worked closely with the C[omputer Science Dep.](https://cs.utdallas.edu/) and [Institute for Innovation and Entrepreneurship](https://innovation.utdallas.edu/) to promote blockchain education and research on campus 
+- Worked closely with the [Computer Science Dep.](https://cs.utdallas.edu/) and [Institute for Innovation and Entrepreneurship](https://innovation.utdallas.edu/) to promote blockchain education and research on campus 
 - Organized and sponsored the 2018 UTD Blockchain Conference
 - Helped organize [Proof of Hack](https://poh.devpost.com/), the first student ogranized blockchain hackathon at UT Dallas
 - Attended [Devcon3](https://ethereumfoundation.org/devcon3/) representing UTD
@@ -52,4 +52,4 @@ Undergraduate Course Work in: Cryptography, Networking, Distributed Ledgers & Bl
 - Assisted Dr. Scott with content creation and project management in Graduate Courses teaching Data Analytics and Financial Technologies
 - Assisted Dr. Kieschnick with data analytics of financial data and web development of university websites
 
-### Event Organizer for the [NTBA](https://ntba.io/)
+### Event Organizer for the [NTBA](https://ntba.io/solidity-smart-contracts/)
