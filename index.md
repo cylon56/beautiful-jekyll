@@ -97,7 +97,7 @@ This is a collection of some personal and professional projects I've worked on. 
   </div>
 
 	
-<div class="posts-list">
+<!-- <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -161,6 +161,6 @@ This is a collection of some personal and professional projects I've worked on. 
   </li>
   {% endif %}
 </ul>
-{% endif %}
+{% endif %} -->
 
 <div class="spacer"></div>
