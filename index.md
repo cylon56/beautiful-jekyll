@@ -27,7 +27,6 @@ This is a collection of some personal and professional projects I've worked on. 
     </div>
   </div>
 
-	
 <div class="row text-center">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
     <div class="project-card">
