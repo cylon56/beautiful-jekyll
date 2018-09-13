@@ -25,6 +25,36 @@ This is a collection of some personal and professional projects I've worked on. 
         </p>
       </a>
     </div>
+
+    <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <div class="project-card">
+      <a target="_blank" href="https://github.com/thomsonreuters/dbdlt-meetup/tree/master/realtime-vat-contracts" class="project-link">
+        <span class="fa-stack fa-3x">
+          <i class="fa fa-circle fa-stack-2x stack-color"></i>
+          <<i class="fa fa-usd fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4>VAT Tax Smart Contracts</h4>
+        <hr class="seperator">
+        <p class="text-muted">
+        Assisted Thomson Reuters with creating realtime e-commerce tax contracts for Ethereum.
+        </p>
+      </a>
+    </div>
+    <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+      <div class="project-card">
+        <a target="_blank" href="https://devpost.com/software/rawhide" class="project-link">
+          <span class="fa-stack fa-3x">
+            <i class="fa fa-circle fa-stack-2x stack-color"></i>
+            <<i class="fa fa-list-alt fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4>Rawhide</h4>
+          <hr class="seperator">
+          <p class="text-muted">
+          Tokenized Cattle Management,
+          WINNER @ WyoHackathon 2018
+          </p>
+        </a>
+      </div>
   </div>
 
 	
