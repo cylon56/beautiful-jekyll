@@ -34,12 +34,12 @@ This is a collection of some personal and professional projects I've worked on. 
       <a target="_blank" href="https://github.com/CryptocurrencyConsulting/CryptoGhosts" class="project-link">
         <span class="fa-stack fa-3x">
           <i class="fa fa-circle fa-stack-2x stack-color"></i>
-          <<i class="fa fa-gamepad fa-stack-1x fa-inverse"></i>
+          <<i class="fa fa-usd fa-stack-1x fa-inverse"></i>
         </span>
-        <h4>CryptoGhosts</h4>
+        <h4>VAT Tax Smart Contracts</h4>
         <hr class="seperator">
         <p class="text-muted">
-        Create and own digital assets on the Ethereum Blockchain
+        Assisted Thomson Reuters with creating realtime e-commerce tax contracts for Ethereum.
         </p>
       </a>
     </div>
