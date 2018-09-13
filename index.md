@@ -94,7 +94,7 @@ This is a collection of some personal and professional projects I've worked on. 
         </p>
       </a>
     </div>
-  </div>
+</div>
 
 	
 <!-- <div class="posts-list">
