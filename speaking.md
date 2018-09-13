@@ -3,9 +3,9 @@ layout: default
 title: Speaking
 ---
 
-If you are interested in me speaking at your meetup or conference please reach out using the Contact page.
-
 # Presentations
+
+If you'd like me to speak at your meetup or conference, please reach out using the Contact page.
 
 ## Blockchain 101
 
