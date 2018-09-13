@@ -51,7 +51,7 @@ This is a collection of some personal and professional projects I've worked on. 
       <a target="_blank" href="https://devpost.com/software/rawhide" class="project-link">
         <span class="fa-stack fa-3x">
           <i class="fa fa-circle fa-stack-2x stack-color"></i>
-          <<i class="fa fa-list-all fa-stack-1x fa-inverse"></i>
+          <<i class="fa fa-list-alt fa-stack-1x fa-inverse"></i>
         </span>
         <h4>Rawhide</h4>
         <hr class="seperator">
