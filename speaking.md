@@ -36,7 +36,7 @@ If you are interested in me speaking at your meetup or conference please reach o
 
 # Media
 
-## Bitcoin Meetup Group in Dallas (2017)
+## Bitcoin Meetup Group in Dallas (2015)
 {% include youtubePlayer.html id="q72C9XOjXqo" %}
 
 ## Bitcoins in Texas, What are they? (2014)
