@@ -63,6 +63,23 @@ This is a collection of some personal and professional projects I've worked on. 
     </div>
   </div>
 
+<div class="row text-center">
+  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <div class="project-card">
+      <a target="_blank" href="ttps://www.rotohive.com" class="project-link">
+        <span class="fa-stack fa-3x">
+          <i class="fa fa-circle fa-stack-2x stack-color"></i>
+          <<i class="fa fa-trophy fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4>Rotohive</h4>
+        <hr class="seperator">
+        <p class="text-muted">
+        Fantasy Sports Hivemind built on Ethereum, Technical Advisor
+        </p>
+      </a>
+    </div>
+</div>
+
 	
 <div class="posts-list">
   {% for post in paginator.posts %}
