@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Michael Lewellen
 subtitle: Blockchain Architect | Crypto Consultant
 use-site-title: true
