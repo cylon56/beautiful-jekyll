@@ -7,6 +7,14 @@ title: Speaking
 
 If you'd like me to speak at your meetup or conference, please reach out using the Contact page.
 
+## Testing Ethereum Smart Contracts
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvJoCE8tFCKKtodkszEK3WdGe6yvtC3jep2L5WpdtWs4JZIXAYsw0bz7AgRnapEvgABfiBWwtLvqjr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Presented at:
+* [**TruffleCon2018**](https://truffleframework.com/trufflecon2018)
+
+
 ## Blockchain 101
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4blrz-dbsgSaojvNZ5PEHFKtRajWs1IAKitT6bQ02DhPaRVeNoEBlTZTEknhv6b9017lW7Ya9wN31/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
