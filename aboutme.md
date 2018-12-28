@@ -29,7 +29,7 @@ Take a look at my [Projects](http://michaellewellen.com/) page to see my current
 - Developed and audited digital tokens and other smart contracts for Ethereum-based clients
 - Created research reports and provided whitepaper writing services to clients
 
-## <i class="fa fa-linode" aria-hidden="true"></i> [Olypsis Technologies](https://www.olypsis.com/) - Software Architect (2018-present)
+## <i class="fas fa-globe" aria-hidden="true"></i> [Olypsis Technologies](https://www.olypsis.com/) - Software Architect (2018-present)
 ### Software Architect
 - Developed, tested and deployed Ethereum smart contracts for tokens and corporate research
 - Architected blockchain systems for supply-chain, tax accounting, and file sharing solutions
