@@ -21,14 +21,16 @@ I've been involved in the blockchain space as a consultant since 2012. I founded
 
 Take a look at my [Projects](http://michaellewellen.com/) page to see my current work
 
-## <i class="fa fa-btc" aria-hidden="true"></i> [Cryptocurrency Consulting](http://cryptocurrencyconsulting.com/) - CEO (2014-present)
+## <i class="fa fa-btc" aria-hidden="true"></i> [Cryptocurrency Consulting](http://cryptocurrencyconsulting.com/) (2014-present)
+### Principal Consultant
 - Founded Cryptocurrency Consulting, LLC in 2014
 - Gave technical talks and organized conferences on blockchain and cryptocurrency topics
 - Provided strategic advice and business development for clients in the blockchain industry
 - Developed and audited digital tokens and other smart contracts for Ethereum-based clients
 - Created research reports and provided whitepaper writing services to clients
 
-## <i class="fa fa-linode" aria-hidden="true"></i> [Olypsis Technologies](https://www.olypsis.com/) - CTO (2018-present)
+## <i class="fa fa-linode" aria-hidden="true"></i> [Olypsis Technologies](https://www.olypsis.com/) - Software Architect (2018-present)
+### Software Architect
 - Developed, tested and deployed Ethereum smart contracts for tokens and corporate research
 - Architected blockchain systems for supply-chain, tax accounting, and file sharing solutions
 - Provided project management and recruitment of additional software engineers
